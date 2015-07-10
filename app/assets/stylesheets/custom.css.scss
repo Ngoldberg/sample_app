@@ -88,10 +88,10 @@ footer {
   }
 }
  /* misceaneous */
-.debug-dump {
+.debug_dump {
   clear: both;
   float: left;
-  width: 100 %;
+  width: 100% ;
   margin-top: 45px;
-  @include box_sizing;
+  @include box_sizing ;
 }
